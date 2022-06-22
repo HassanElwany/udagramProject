@@ -1,0 +1,1 @@
+eb setenv POSTGRES_HOST=database-1.cqoqxvt6jenz.us-east-1.rds.amazonaws.com DB_PORT=5432 PORT=8000 POSTGRES_PASSWORD=postgres1 POSTGRES_USERNAME=postgres POSTGRES_DB=udagram AWS_REGION=us-east-1 AWS_PROFILE=default AWS_BUCKET=hassan-udagram-files URL=udagram-env.eba-3kzewwku.us-east-1.elasticbeanstalk.com JWT_SECRET=hello-there
